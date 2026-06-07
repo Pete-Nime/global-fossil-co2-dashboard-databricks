@@ -560,7 +560,7 @@ Data Analyst | Data Scientist | AI & Data Engineering Enthusiast
 ### Connect With Me
 
 - GitHub: https://github.com/pete-nime
-- LinkedIn: https://www.linkedin.com
+- LinkedIn: https://www.linkedin.com/in/peter-nime/
 - Company: Areca Tech Limited
 
 ---
